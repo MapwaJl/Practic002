@@ -1,9 +1,9 @@
 ﻿// Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
 
 Console.Clear();
-// 100 // 1000
 
-int num = new Random().Next(100, 1000);
+Console.WriteLine("Введите трехзначное число:");
+int num = int.Parse(Console.ReadLine ()!); 
 int a1 = num / 10;
 
 int result = a1 % 10;
