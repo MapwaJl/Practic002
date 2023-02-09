@@ -2,12 +2,15 @@
 
 Console.Clear();
 
-Console.WriteLine("Введите число от 1 до 7:")
-int N = int.Parse(Console.ReadLine ()!); 
+Console.WriteLine("Введите число от 1 до 7:");
+int num = int.Parse(Console.ReadLine ()!); 
 
-Console.WriteLine($"День недели : {num}");
-
-if(num = 6, 7)
+if(num > 5)
 {
     Console.WriteLine($"Является выходным днём");
 }
+else
+{
+    Console.WriteLine($"День недели : {num} - является будним");
+}
+
