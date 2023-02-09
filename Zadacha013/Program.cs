@@ -3,7 +3,8 @@
 Console.Clear();
 // 100 // 1000
 
-int num = new Random().Next(0, 1000);
+Console.WriteLine("Введите первое число:")
+int N = int.Parse(Console.ReadLine ()!); 
 int a1 = num / 100;
 
 Console.WriteLine($"Трехзначное число : {num}, Третья цифра : {a1}");
