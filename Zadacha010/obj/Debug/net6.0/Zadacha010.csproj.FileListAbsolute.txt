@@ -1,0 +1,15 @@
+C:\Users\Sergey\OneDrive\Рабочий стол\GeekBrains\Practic\Practic002\Zadacha010\bin\Debug\net6.0\Zadacha010.exe
+C:\Users\Sergey\OneDrive\Рабочий стол\GeekBrains\Practic\Practic002\Zadacha010\bin\Debug\net6.0\Zadacha010.deps.json
+C:\Users\Sergey\OneDrive\Рабочий стол\GeekBrains\Practic\Practic002\Zadacha010\bin\Debug\net6.0\Zadacha010.runtimeconfig.json
+C:\Users\Sergey\OneDrive\Рабочий стол\GeekBrains\Practic\Practic002\Zadacha010\bin\Debug\net6.0\Zadacha010.dll
+C:\Users\Sergey\OneDrive\Рабочий стол\GeekBrains\Practic\Practic002\Zadacha010\bin\Debug\net6.0\Zadacha010.pdb
+C:\Users\Sergey\OneDrive\Рабочий стол\GeekBrains\Practic\Practic002\Zadacha010\obj\Debug\net6.0\Zadacha010.csproj.AssemblyReference.cache
+C:\Users\Sergey\OneDrive\Рабочий стол\GeekBrains\Practic\Practic002\Zadacha010\obj\Debug\net6.0\Zadacha010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\OneDrive\Рабочий стол\GeekBrains\Practic\Practic002\Zadacha010\obj\Debug\net6.0\Zadacha010.AssemblyInfoInputs.cache
+C:\Users\Sergey\OneDrive\Рабочий стол\GeekBrains\Practic\Practic002\Zadacha010\obj\Debug\net6.0\Zadacha010.AssemblyInfo.cs
+C:\Users\Sergey\OneDrive\Рабочий стол\GeekBrains\Practic\Practic002\Zadacha010\obj\Debug\net6.0\Zadacha010.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\OneDrive\Рабочий стол\GeekBrains\Practic\Practic002\Zadacha010\obj\Debug\net6.0\Zadacha010.dll
+C:\Users\Sergey\OneDrive\Рабочий стол\GeekBrains\Practic\Practic002\Zadacha010\obj\Debug\net6.0\refint\Zadacha010.dll
+C:\Users\Sergey\OneDrive\Рабочий стол\GeekBrains\Practic\Practic002\Zadacha010\obj\Debug\net6.0\Zadacha010.pdb
+C:\Users\Sergey\OneDrive\Рабочий стол\GeekBrains\Practic\Practic002\Zadacha010\obj\Debug\net6.0\Zadacha010.genruntimeconfig.cache
+C:\Users\Sergey\OneDrive\Рабочий стол\GeekBrains\Practic\Practic002\Zadacha010\obj\Debug\net6.0\ref\Zadacha010.dll
